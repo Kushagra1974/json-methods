@@ -1,0 +1,36 @@
+.comments {
+  margin: 15px 0px;
+  border: 3px solid white;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 2px 2px 2px white;
+}
+.comments p {
+  margin: 7px 0;
+  color: white;
+}
+.btn {
+  padding: 7px 15px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  background-color: rgb(202, 20, 80);
+  color: white;
+  font-size: 16px;
+}
+.btn:active {
+  background-color: rgb(233, 17, 107);
+}
+.update {
+  margin-left: 20px;
+  padding: 7px 15px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  background-color: rgb(20, 135, 202);
+  color: white;
+  font-size: 16px;
+}
+.update:active {
+  background-color: rgb(20, 84, 202);
+}
